@@ -42,7 +42,7 @@ You can connect with me on [![Telegram](https://img.shields.io/badge/-Telegram-0
 ## 🎮 Game Development Experience
 - **Unity**:Developed procedural generation for voxel maps, 2D shooter games, multiplayer chess (using Photon for 2-player real-time multiplayer), and a Tycoon games for mobile devices.
 - **Godot**, **C2JS**, **Roblox**, **GDevelop**: Game creation in various engines, including mobile and web-based projects.
-- **Multiplayer**: Experience in Photon for creating real-time multiplayer games.
+<!-- - **Multiplayer**: Experience in Photon for creating real-time multiplayer games. -->
 
 ## 💼 Projects & Experience
 - **Mobile App Development**: Developed a student app using **Xamarin.Forms** with **REST API** integration.
