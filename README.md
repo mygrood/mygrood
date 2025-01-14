@@ -3,6 +3,8 @@ Currently, I'm studying **Software Engineering** at **Higher School of Economics
 
 You can connect with me on [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/mygrood)
 
+Best project to evaluate my code: https://github.com/mygrood/chess
+
 ## 🚀 Technology Stack
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
